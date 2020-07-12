@@ -28,5 +28,5 @@ pandas_zmq.send_dataframe(socket, df)
 import pandas_zmq
 
 # ...
-pandas_zmq.send_dataframe(socket, df)
+pandas_zmq.recv_dataframe(socket, df)
 ```
