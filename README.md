@@ -4,8 +4,13 @@ Communicate Pandas DataFrame over ZeroMQ connection
 
 ## API
 
+```
 send_dataframe(socket, dataframe, flags=0)
+```
+
+```
 recv_dataframe(socket, flags=0)
+```
 
 ### Server
 
