@@ -1,6 +1,6 @@
 # pandas-zmq
 
-Communicate Pandas DataFrame over ZeroMQ connection
+Communicate [Pandas](https://pypi.org/project/pandas/) DataFrame over [ZeroMQ](https://pypi.org/project/pyzmq/) connection
 
 ## API
 
