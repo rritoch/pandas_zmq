@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pandas-zmq",
-    version="0.0.1",
+    version="0.0.2",
     author="Ralph Ritoch",
     author_email="rritoch@gmail.com",
     description="Communicate Pandas DataFrame over ZeroMQ connection",
